@@ -22,7 +22,7 @@ For data visualization, [matplotlib](https://matplotlib.org/) and [seaborn](http
 - Port of Embarkation
 - Number of family members on board (siblings & spouses)
 
-## Logistic Regression
+## Classification
 
 [NumPy](https://numpy.org/) and [scikit-learn](https://scikit-learn.org/stable/) are used to train different classification models.
 
